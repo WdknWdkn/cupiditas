@@ -1,11 +1,11 @@
 {
-  "name": "エンジニア太郎",
-  "belong-to": "株式会社エンジニア",
-  "title": "プログラマー",
-  "avatar": "./img/avator-male.png",
+  "name": "和田健太郎",
+  "belong-to": "株式会社いえらぶGROUP",
+  "title": "エンジニア/マネージャー",
+  "avatar": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-1/p160x160/67333516_2252411344875508_4511804127302385664_n.jpg?_nc_cat=100&_nc_ohc=SlemZYsBL14AQlLrm3teXp_hD5z6inY0ZUUs9tEXokwHpUVcZYftXgc0g&_nc_ht=scontent-nrt1-1.xx&_nc_tp=1&oh=a470eb0622e8b0454c5b69d0b83434ef&oe=5E9734E7",
   "style": {
     "desktop": "Mac",
-    "mobile": "Android"
+    "mobile": "iPhone10"
   },
   "point-skill": [
     {
